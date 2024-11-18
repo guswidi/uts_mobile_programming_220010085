@@ -1,16 +1,6 @@
-# uts_mobile_programming_220010085
+![image](https://github.com/user-attachments/assets/5d328628-8cc6-455e-8ff3-f5977e441e92)
+![image](https://github.com/user-attachments/assets/ef9ca4ad-608f-40d3-9c50-dfbe57280aee)
+![image](https://github.com/user-attachments/assets/96a8cd21-8312-43ca-ae24-8936e800fa0c)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/d05d834e-fc99-46c9-ade8-49cf57e4f664)
+uts image kita mengambil addres di google putu agus widiastika
